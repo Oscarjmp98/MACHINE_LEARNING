@@ -1,0 +1,17 @@
+{
+    "Cluster 0": {
+        "nombre": "Clientes conservadores",
+        "descripcion": "Este grupo incluye clientes con bajo gasto mensual, pagos moderados y un uso limitado de la tarjeta. Suelen tener un límite de crédito medio y no presentan comportamientos de alto riesgo.",
+        "recomendacion": "Mantener seguimiento básico. No requieren estrategias agresivas de fidelización ni control de riesgo."
+    },
+    "Cluster 1": {
+        "nombre": "Clientes premium",
+        "descripcion": "Clientes con alto gasto mensual, pagos frecuentes y un límite de crédito elevado. Son usuarios activos que aprovechan los beneficios de la tarjeta y tienen buen historial de pagos.",
+        "recomendacion": "Aplicar estrategias de fidelización, ofrecer beneficios exclusivos y mantenerlos como clientes prioritarios."
+    },
+    "Cluster 2": {
+        "nombre": "Clientes de bajo uso",
+        "descripcion": "Este grupo representa clientes con bajo límite de crédito y poco movimiento en la tarjeta. Su actividad financiera es mínima y no generan mucho volumen.",
+        "recomendacion": "Evaluar si vale la pena mantenerlos activos o aplicar campañas de activación para aumentar su uso."
+    }
+}
